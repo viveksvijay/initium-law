@@ -1694,3 +1694,11 @@ section {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   text-align: center;
 }
+
+ol {
+  padding-left: 20px; /* Adjust the left padding of the ordered list */
+}
+
+ol li {
+  margin-bottom: 20px; /* Adjust the bottom margin of each list item */
+}
